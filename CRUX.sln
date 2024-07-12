@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUX.ParicalClass", "CRUX.ParicalClass.csproj", "{7C424956-0424-4A7B-B598-C76FA27C6C9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples", "..\SolidPrinciples\SolidPrinciples.csproj", "{D57B58E1-F85E-4E89-B3BC-6CF543E67232}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples", "SolidPrinciples\SolidPrinciples.csproj", "{DCEC88B2-FDDE-44F9-8C86-0F9F93D3C48A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7C424956-0424-4A7B-B598-C76FA27C6C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C424956-0424-4A7B-B598-C76FA27C6C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C424956-0424-4A7B-B598-C76FA27C6C9D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D57B58E1-F85E-4E89-B3BC-6CF543E67232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D57B58E1-F85E-4E89-B3BC-6CF543E67232}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D57B58E1-F85E-4E89-B3BC-6CF543E67232}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D57B58E1-F85E-4E89-B3BC-6CF543E67232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEC88B2-FDDE-44F9-8C86-0F9F93D3C48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEC88B2-FDDE-44F9-8C86-0F9F93D3C48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEC88B2-FDDE-44F9-8C86-0F9F93D3C48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEC88B2-FDDE-44F9-8C86-0F9F93D3C48A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
