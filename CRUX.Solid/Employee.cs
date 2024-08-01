@@ -1,7 +1,6 @@
-﻿namespace CRUX.Solid
+﻿namespace CRUX.SRP
 {
-    //SRP-->Single Responsibility Principle:A class should have a single purpose
-    //Each class should contain functions related to that class and should not contain code which breaks this principle.
+    
     
     public class Employee
     { 
@@ -18,7 +17,7 @@
             employee.Salary = Console.ReadLine()!;
             employees.Add(employee);
         }
-
+        
         public void DisplayUserDetails()
         {
             foreach (var item in employees)
